@@ -4,11 +4,11 @@ This is a series of tutorials on the Javascript programming language. It covers 
 
 ## Tutorials
 
-* Pt.1 | Why You Should Learn Javascript
-* Pt.2 | Workspace Setup and Specifications
-* Pt.3 | Variables, Primitive Values and Arithmetic Operators
-* Pt.4 | Primitive Values and Operators (Cont.)
-* Pt.5 | Conditional Statements
+* [Pt.1 | Why You Should Learn Javascript](https://github.com/gkamtzir/Javascript-Tutorial/blob/master/Pt1-WhyYouShouldLearnJavascript/whyYouShouldLearnJavascript.md)
+* [Pt.2 | Workspace Setup and Specifications](https://github.com/gkamtzir/Javascript-Tutorial/blob/master/Pt2-WorkspaceSetupAndSpecifications/WorkspaceSetupAndSpecifications.md)
+* [Pt.3 | Variables, Primitive Values and Arithmetic Operators](https://github.com/gkamtzir/Javascript-Tutorial/blob/master/Pt3-VariablesPrimitiveValuesAndArithmeticOperators/VariablesPrimitiveValuesAndArithmeticOperators.md)
+* [Pt.4 | Primitive Values and Operators (Cont.)](https://github.com/gkamtzir/Javascript-Tutorial/blob/master/Pt4-PrimitiveValuesAndOperators(Cont.)/PrimitiveValuesAndOperatorsCont.md)
+* [Pt.5 | Conditional Statements](https://github.com/gkamtzir/Javascript-Tutorial/blob/master/Pt5-ConditionalStatements/ConditionalStatements.md)
 * Pt.6 | Loops
 * Pt.7 | Objects and Arrays
 * Pt.8 | Functions
