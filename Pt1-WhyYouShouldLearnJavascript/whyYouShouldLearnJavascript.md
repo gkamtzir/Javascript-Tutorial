@@ -1,5 +1,7 @@
 ## Why You Should Learn Javascript
 
+![Tutorial image](https://1.bp.blogspot.com/-ENiXztabSjo/WPinyC5Ls4I/AAAAAAAAAx8/oak5sZb_Z_EOURZHYx7D-TEfwNriubblACEw/s1600/javascriptTutorial1B.jpg)
+
 Choosing a programming language was never an easy task, especially nowadays when there are literally over 200 of them out there. So, what do you do? You simply ask for help on the Internet. Googling, reading and clicking through sites and forums only to end up with approximately 10 suggested languages, like C/C++, Java, Python, PHP, Ruby and somewhere in the end you’ll see Javascript. At least, that’s how it looked like 8 years ago when I decided to learn how to program.
 
 Each of these languages had, and still has, some valid reasons to choose it. For example, C is used on Linux, C++ is used on game engines and video games, Java is used on Android apps and PHP was used, initially, on Facebook. Javascript, in contrast, didn’t have any of that, at the time. Javascript was the language in which these annoying popups were written. Javascript was the language in which these dodgy animations were designed and it was the reason why the x or y website was working, just fine, on Chrome and not on Internet Explorer and vice versa. That’s how Javascript was showcased on the web.
