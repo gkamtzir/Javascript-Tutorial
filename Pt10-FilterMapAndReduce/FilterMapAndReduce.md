@@ -2,7 +2,7 @@
 
 ![Tutorial image](https://4.bp.blogspot.com/-Q3Pxd5IxmVI/WQtfrjAsZNI/AAAAAAAAA1w/Kg4MNPbuxJ8zXunoMIOiK-24MdGmO5d3wCLcB/s1600/javascriptTutorial10B.jpg)
 
-Hello and welcome to another Javascript tutorial. This is the last tutorial of the beginners series, but don't worry because there will be an intermediate tutorial series too. During these 2 weeks, you've learned a lot about Javascript. Most of that knowledge was basic. However, it is enough to build simple, yet useful, programs. So, keep up the learning and if you want to read through our next Javascript tutorials first, don't forget to like our Facebook page!
+Hello and welcome to another Javascript tutorial. This is the last tutorial of the beginners series, but don't worry because there will be an intermediate tutorial series too. During these 2 weeks, you've learned a lot about Javascript. Most of that knowledge was basic. However, it is enough to build simple, yet useful, programs. So, keep up the learning and if you want to read through our next Javascript tutorials first, don't forget to like our [Facebook](https://www.facebook.com/programmunity/) page!
 
 In this final tutorial, we will have a look at 3 basic functions that make Javascript a very delightful language. These 3 functions are widely used in Functional Programming. But what exactly is Functional Programming? You probably remember that Object-Oriented Programming is a programming approach that depends on objects. Following the same logic, Functional Programming is a programming approach that relies on functions. You don't have to know anything else about it right now. We will dive into Functional Programming in a future tutorial.
 
